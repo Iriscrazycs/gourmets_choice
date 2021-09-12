@@ -1,7 +1,7 @@
-# pickup_restaurants
+# gourmets_choice
 A simple web application for offering customers to browse and review restaurants
 
-Functions descriptions
+# Functions descriptions
 
 Customers:
 1. Customers without registering can search and browse all the restaurants. The detailed information of any restaurants will show up by clicking the names.
