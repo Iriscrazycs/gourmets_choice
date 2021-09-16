@@ -1,4 +1,4 @@
-# gourmets_choice
+# Project gourmets_choice
 A simple web application for offering customers to browse and review restaurants
 
 # Functions descriptions
