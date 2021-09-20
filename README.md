@@ -13,3 +13,19 @@ Customers:
 Administrator:
 
 Administrator manages the restaurants and users, including adding, deleting, and classifying the restaurants and deleting users.
+
+Updating 20.09
+
+The basic framework construction is done, which includes the main page, display pages for restaurants and further details for each specific restaurant, logging in and registration pages and the connections between pages by hyperlinks. 
+
+At the main page, users can choose to log in, register and browsing the list of restaurants. The list of restaurants not only shows the restaurants' name, but the names are also the links to further information about the selected restaurant. At the specific page, users can see the restaurant rating, price and cuisine type.
+
+
+
+next step:
+1. add more functions, like nagivation bar.
+2. decoration
+3. admin function to check the list of users and restaurants.
+4. users give rating and price to restaurant.
+5. authentication
+6. rank restaurants by rating, price, cuisine.
