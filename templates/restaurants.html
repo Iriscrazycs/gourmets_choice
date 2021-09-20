@@ -1,0 +1,6 @@
+<h1>Restaurants</h1>
+{% for restaurant in restaurants %}
+<ul>
+    <li><a href="/restaurants/{{restaurant.id}}">{{restaurant.name}}</a></li>
+</ul>
+{% endfor %}

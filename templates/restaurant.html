@@ -1,0 +1,43 @@
+<h1>Restaurants</h1>
+{% for restaurant in restaurants %}
+<table>
+    <tbody>
+        <tr>
+            <th>
+                Name:
+            </th>
+            <td>
+                {{restaurant.name}}
+            </td>
+        </tr>
+        <tr>
+            <th>
+                cuisine: 
+            </th>
+            <td>
+                {{restaurant.cuisine}}
+            </td>
+        </tr>
+        <tr>
+            <th>
+                rating: 
+            </th>
+            <td>
+                {{restaurant.rating_av}}
+            </td>
+        </tr>
+        <tr>
+            <th>
+                price: 
+            </th>
+            <td>
+                {{restaurant.price_avlevel}}
+            </td>
+        </tr>
+    </tbody>
+</table>>
+
+<p>
+    <a href="/restaurants">Back</a>
+</p>
+{% endfor %}
