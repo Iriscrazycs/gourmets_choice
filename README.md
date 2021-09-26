@@ -29,3 +29,6 @@ next step:
 4. users give rating and price to restaurant.
 5. authentication
 6. rank restaurants by rating, price, cuisine.
+
+updating 26.09
+
