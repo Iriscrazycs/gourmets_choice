@@ -34,3 +34,15 @@ updating 26.09
 
 heroku https://gourmets-choice.herokuapp.com
 
+updating 28.09
+
+Add functions related to admin, including register as an admin and log into admin page where admins can add and delete the restaurants. Users can become admins under the condition of correct identification code (13102021).
+
+
+next step:
+1. add more functions, like nagivation bar.
+2. decoration
+3. users give rating and price to restaurant.
+4. authentication and session.
+5. rank restaurants by rating, price, cuisine.
+
